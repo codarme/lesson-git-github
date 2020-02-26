@@ -1,1 +1,1 @@
-const n = 50
+const n = 5
